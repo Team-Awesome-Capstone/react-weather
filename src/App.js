@@ -3,9 +3,7 @@ import coldDay from './assets/coldDay.jpg';
 import Descriptions from './components/Descriptions';
 import { useEffect, useState } from 'react';
 import { getWeatherData } from './components/WeatherService';
-import NewApp from './NewApp';
 
-<NewApp />
 
 //get current weather for specific city
 function App() {
